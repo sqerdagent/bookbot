@@ -1,0 +1,6 @@
+#default .gitignore
+*.exe
+*api*
+*key*
+*.env
+node_modules
